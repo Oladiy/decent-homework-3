@@ -25,7 +25,7 @@
 
 **Сборка самой программы**
 
-`g++ main.cpp cryptopp/*.a -o shamir`
+`g++ shamir.cpp cryptopp/*.a -o shamir`
 
 # **Run**
 

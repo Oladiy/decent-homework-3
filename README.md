@@ -3,7 +3,7 @@
 Программа, которая разделяет секретную строку в hex формате длиной 256 bit (например, приватный ключ ECDSA secp256k1) на N частей по схеме Шамира и восстанавливает его при предъявлении любых T частей.
 
 ## **Build**
-Необходимо установить библиотеки <a src="https://github.com/weidai11/cryptopp">Crypto++</a> и <a src="https://www.boost.org/">Boost</a>.
+Необходимо установить библиотеки [Crypto++](https://github.com/weidai11/cryptopp) и [Boost](https://www.boost.org/").
 
 **Установка Crypto++**
 
@@ -19,7 +19,7 @@
 
 **Установка Boost**
 
-Скачать Boost можно <a src="https://www.boost.org/users/history/version_1_73_0.html">тут</a>
+Скачать Boost можно [тут](https://www.boost.org/users/history/version_1_73_0.html).
 
 `tar --bzip2 -xf /path/to/boost_1_73_0.tar.bz2`
 
